@@ -1,8 +1,8 @@
 ### Olá eu sou o Cauanunes91 👋
 
-- 🔭 Hoje trabalho com Python ...
+- 🔭 Hoje trabalho com Python,CSS E THML ...
 - 🌱 Estudando Python e programação Web ...
-- 💬 Pergunte me sobre Automatização...
+- 💬 Pergunte me sobre Automatização e Desenvolvimento Web...
 
 
 
@@ -14,9 +14,12 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dev-Java" height="150" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Dev-Python" height="150" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Dev-MySql" height="150" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Dev-Java" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Dev-Python" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Dev-MySql" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Dev-MySql" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Dev-MySql" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Dev-MySql" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   
  ##
